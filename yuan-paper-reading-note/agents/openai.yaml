@@ -1,0 +1,3 @@
+interface:
+  display_name: "论文阅读笔记"
+  short_description: "生成 Obsidian 阅读笔记，覆盖发表信息、消融实验、核心问题、论文贡献与详细模型流程"

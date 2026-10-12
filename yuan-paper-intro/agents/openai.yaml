@@ -1,0 +1,3 @@
+interface:
+  display_name: "论文模型流程说明"
+  short_description: "面向未读论文的读者，按总览与逐模块步骤讲清模型从输入到预测的具体流程"
