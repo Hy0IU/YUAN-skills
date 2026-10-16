@@ -4,6 +4,7 @@
 !/README.md
 !/yuan-paper-intro/
 !/yuan-paper-reading-note/
+!/yuan-codex-research-title/
 
 # 白名单目录内也不跟踪系统文件、缓存和临时文件。
 .DS_Store
